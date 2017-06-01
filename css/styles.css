@@ -1,0 +1,35 @@
+* {
+  font-size: 20px;
+  color: #ffffff;
+}
+
+#bg1 {
+  background-color: #1D1F2E !important;
+}
+
+h1, h2, h3 {
+  color: #ffffff;
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 75%;
+}
+
+.navbar-brand {
+  padding-top: 5px !important;
+  padding-left: 0px !important;
+}
+
+.navbar-header {
+  background-color: #ffffff !important;
+}
+
+#navbar-logo {
+  width: 75px;
+}
+
+p {
+  text-align: left;
+}
