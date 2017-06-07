@@ -9,11 +9,17 @@
 
 .bg1 {
   background-color: #1D1F2E !important;
+  height: 1000px;
 }
 
-.bg2 {
-  background-color: #006400;
+.bgfooter {
+  background-color: #778899;
   color: #1D1F2E;
+}
+
+.blacktext {
+  color: #000000;
+  text-align: center;
 }
 
 body {
@@ -41,12 +47,13 @@ img {
   text-align: left;
 }
 
-  p {
-    text-align: left;
-  }
-  #tab {
-    margin-left: 30px;
-  }
+p {
+  text-align: left;
+}
+
+#tab {
+  margin-left: 30px;
+}
   .wellfont {
     color: #1D1F2E;
   }
