@@ -8,8 +8,13 @@
 }
 
 .bg1 {
-  background-color: #1D1F2E !important;
+  background-color: #303030 !important;
   height: 1000px;
+}
+
+.bg2 {
+  background-color: #ffffff;
+  color: #1d1f2e;
 }
 
 .bgfooter {
@@ -19,7 +24,6 @@
 
 .blacktext {
   color: #000000;
-  text-align: center;
 }
 
 body {
@@ -33,8 +37,13 @@ body {
   font-size: 16px;
 }
 
-h1, h2, h3, h4 {
-  color: #ffffff;
+.centered {
+  text-align: center;
+}
+
+.whitetext {
+  color: #ffffff !important;
+  font-size: 20px;
 }
 
 img {
@@ -48,7 +57,11 @@ img {
 }
 
 p {
-  text-align: left;
+  text-align: justify;
+}
+
+.pastrytext {
+  color: #E36B69 !important;
 }
 
 #tab {
